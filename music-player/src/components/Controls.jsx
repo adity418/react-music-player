@@ -123,3 +123,5 @@ const Controls = () => {
         </div>
     )
 }
+
+export default Controls;
